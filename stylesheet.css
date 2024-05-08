@@ -1,0 +1,17 @@
+.title {
+    color: #02ccba;
+    font-family:serif;
+  }
+  .main{
+    background-color: black;
+    
+    color:cornsilk
+  }
+  .header{
+    background-color: chocolate;
+    height: 50px;
+  }
+  .footer{
+    background-color: chocolate;
+    height: 50px;
+  }
